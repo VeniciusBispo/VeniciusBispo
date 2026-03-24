@@ -4,11 +4,6 @@
 
 🎓 Estudante de Sistemas de Informação na Universidade Federal de Sergipe (UFS)
 
-🚀 Atualmente focado em aprofundar conhecimentos em:
-- Cloud Computing (AWS)
-- Containers e DevOps (Docker)
-- Desenvolvimento Mobile (Flutter & Dart)
-
 💡 Tenho interesse em desenvolver aplicações completas (front-end, back-end e mobile), com foco em performance, usabilidade e boas práticas.
 
 📫 Aberto a oportunidades, projetos e colaborações!
